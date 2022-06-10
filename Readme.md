@@ -44,7 +44,7 @@ It consists of approximately 220 pages in Persian and also it is free and open s
 
 ## How Should I Start?
 
-You can choose one of our book formats and start reading:
+You can choose one of the following formats and start reading.
 
 | [**PDF**](https://github.com/Mariotek/javascript-persian-interview-questions/raw/master/book.pdf)      | [**Online HTML Version**](https://react.sayjeyhi.com) | [**MarkDown**](https://github.com/Mariotek/javascript-persian-interview-questions/blob/master/book.md#%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%DB%8C-%D8%B1%DB%8C%D8%A7%DA%A9%D8%AA) | [**ePub**](https://github.com/Mariotek/javascript-persian-interview-questions/raw/master/book.epub) | [**mobi**](https://github.com/Mariotek/javascript-persian-interview-questions/raw/master/book.mobi) |
 |-------------------|---------------|---------------|--------------------|-------------|
