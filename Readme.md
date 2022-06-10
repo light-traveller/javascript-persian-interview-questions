@@ -40,7 +40,7 @@ sayjehyhi@gmail.com
 This book contains 420 JavaScript interview questions that are asked frequently in job interview sessions.
 It consists of approximately 220 pages in Persian and also it is free and open source!
 
-> if you like our job, give a :star: to our github repo. Contributions are welcomed too :)
+> if you like our work, give a :star: to our github repo. Contributions are welcomed too :)
 
 ## How Should I Start?
 
